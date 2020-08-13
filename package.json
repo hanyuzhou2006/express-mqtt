@@ -1,0 +1,39 @@
+{
+  "name": "express-mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanyuzhou2006/express-mqtt.git"
+  },
+  "author": "seek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanyuzhou2006/express-mqtt/issues"
+  },
+  "homepage": "https://github.com/hanyuzhou2006/express-mqtt#readme",
+  "files": [
+    "README.md",
+    "index.js",
+    "lib/"
+  ],
+  "dependencies": {
+    "array-flatten": "^3.0.0",
+    "debug": "^4.1.1",
+    "merge-descriptors": "^1.0.1",
+    "parseurl": "^1.3.3",
+    "path-to-regexp": "^6.1.0",
+    "setprototypeof": "^1.2.0",
+    "utils-merge": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  }
+}
